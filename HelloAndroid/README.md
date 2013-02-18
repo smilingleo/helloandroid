@@ -1,5 +1,10 @@
 My Android Playground
 =========================
-1. create first project
-2. add some UI components
-3. communicate Views with Intent
+## Finished
++ create first project
++ add some UI components
++ communicate Views with Intent
++ setup environment (mac, windows, github)
+
+## TODO
++ Manage Activity Lifecycle
